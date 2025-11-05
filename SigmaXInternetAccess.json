@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.sigmaXinternet": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "MB9As9hKRj0zmyE0kLwubOjZnI/wRj7cOQYxANVe+ZwpawfTiMq0eLX0I94v6Vge",
+        "cBlockGet": "lSNLUQd1bOKtwlaxU5y5/gzmykGTuKrJU+sKFbYA7dMn2jADIAMQ4K8wELq5hZnZ/DmJ8A3p3NFtovDpjRG1O5DImON6pEBQ",
+        "cBlockPost": "VouRNiYA1XBC+FLMtwZK53yko4AguBjoyVvEmFzBS+O995Y5GHdelx7cbWfFWARW",
+        "cBlockNotice": "0Y195gkYFCX9thw/Gve3MO5kAafRHdS4NS+27Y8jGv+JjTEXWpblXtqgEIjooEAe4TMoqjXT6KKONmt9BdrIaGpSfF9eC+MwRVPoZVJJGkTDKz3wAAh5eggj52kpb0rUDPAZeamN4Bc="
+    }
+}
